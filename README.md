@@ -21,6 +21,9 @@ Dive into a vibrant Match-3 adventure featuring deep mechanics and explosive gam
 *   **Dynamic Visuals:** Satisfying physics-based animations, "squash-and-stretch" effects upon impact, and a custom-built particle engine for spectacular match sequences.
 *   **Tactile Feedback:** Feel every match and explosion with carefully tuned haptic feedback.
 
+compass
+calculator 
+
 ## Key Features
 *   **Adaptive Design:** Seamlessly switches between **Portrait** and **Landscape** layouts, ensuring a great experience on any device.
 *   **Responsive UI:** Built with Material 3, featuring a clean look that respects your system's light and dark mode settings.
